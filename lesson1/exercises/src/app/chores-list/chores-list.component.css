@@ -1,0 +1,12 @@
+.chores {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 1.2em;
+}
+.chores h3 {
+  color : #E9967A;
+  text-decoration : underline;
+}
+.chores li {
+ color : #FF1493;
+ font-style: italic;
+}
